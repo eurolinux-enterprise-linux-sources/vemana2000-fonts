@@ -3,7 +3,7 @@
 
 Name: %{fontname}-fonts
 Version: 1.1.3
-Release: 5%{?dist}
+Release: 6%{?dist}
 Summary: Unicode compliant OpenType font for Telugu
 
 Group: User Interface/X
@@ -42,6 +42,9 @@ ln -s %{_fontconfig_templatedir}/%{fontconf} \
 %doc ChangeLog COPYRIGHT COPYING AUTHORS README
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.1.3-6
+- Mass rebuild 2013-12-27
+
 * Fri Feb 15 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.1.3-5
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
