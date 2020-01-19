@@ -1,0 +1,18 @@
+				  vemana2000-fonts
+
+* Wed Mar 02 2011 Sandeep Shedmake <sshedmak@redhat.com> - 1.1.3-1
+- Added Indian Rupee Sign (U+20B9)
+
+* Mon Feb 07 2011 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.1.2-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_15_Mass_Rebuild
+
+* Mon Dec 14 2009 <sshedmak@redhat.com> - 1.1.2-1
+- Fixed FSType, Preferred Styles, UniqueID and Fullname
+- Fixed Invalid Glyph Names reported by fontlint
+- with exceptions string added in License
+
+* Tue Aug 31 2009 <sshedmak@redhat.com> - 1.1.1-2
+- Changed the Pothana2000 strings to Vemana2000
+
+* Tue Jun 23 2009 <sshedmak@redhat.com> - 1.1.1-1
+- Initial packaging

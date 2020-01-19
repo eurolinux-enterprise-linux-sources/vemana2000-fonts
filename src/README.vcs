@@ -1,0 +1,9 @@
+Vemana2000 Fonts Project
+
+Script Usage:-
+Vemana2000 Fonts VCS includes a shell script 
+1)generate.sh
+  Once you checkout the .sfd files from pothana_vemana VCS, you just need to execute this script 
+  and you will get all .ttf files in respective language directory. You can then install those font files
+  by copying them to ~/.fonts directory. Then execute fc-cache command and then relogin to use that font.
+
